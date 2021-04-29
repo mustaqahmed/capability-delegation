@@ -1,1 +1,1 @@
-This repository has been moved to https://github.com/WICG/capability-delegation
+This repository has moved to https://github.com/WICG/capability-delegation
